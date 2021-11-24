@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["RpcBroadcastTxAsyncRequest",""],["SignedTransaction",""]],"type":[["RpcBroadcastTxAsyncResponse",""]]});
