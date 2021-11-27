@@ -19,8 +19,8 @@ reqwest = { version = "0.11.4", features = ["json"] }
 lazy_static = "1.4.0"
 
 borsh = "0.9"
-serde = "1.0.127"
-serde_json = "1.0.66"
+serde = "^1"
+serde_json = "^1"
 
 near-primitives = { git = "https://github.com/near/nearcore", rev="88a9e74d4b99867e417fe199cbd74559fd4fc349" }
 near-chain-configs = { git = "https://github.com/near/nearcore", rev="88a9e74d4b99867e417fe199cbd74559fd4fc349" }
